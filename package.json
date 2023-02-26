@@ -1,0 +1,27 @@
+{
+  "name": "geekify",
+  "version": "1.0.5",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev --port=8001",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/recaptcha": "^1.1.1",
+    "aos": "^2.3.4",
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "v-calendar": "^2.4.1",
+    "vue": "^2.7.10",
+    "vue-google-autocomplete": "^1.1.4",
+    "vue-js-modal": "^2.0.1",
+    "vue-multiselect": "^2.1.6",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10",
+    "vue-toast-notification": "^0.6.3",
+    "vuejs-datepicker": "^1.6.2"
+  }
+}
